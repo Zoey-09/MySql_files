@@ -1,2 +1,2 @@
-# Data Analyst Portfolio Projects
+# MySql_files
 A collection of my SQL queries.
